@@ -1,4 +1,5 @@
 Test git 1
 2ème ligne
 3ème ligne
+Nouvelle ligne master
 fin
